@@ -11,7 +11,7 @@ A deep learning model (based on an LSTM architecture) is trained to classify emo
 The model is evaluated using validation data to assess its accuracy in predicting emotional labels.
 
 Requirements:
-TensorFlow
-Hugging Face datasets
-NumPy
+TensorFlow/
+Hugging Face datasets/
+NumPy/
 Pandas
